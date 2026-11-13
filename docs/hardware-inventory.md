@@ -9,6 +9,7 @@ This inventory is a public-safe summary for planning. It does not confirm deploy
 | Primary virtualization host | AMD Ryzen 7 5700X; 64 GB RAM | Proxmox VE host |
 | Single-board computers | Raspberry Pi 4 (two units reported) | Linux clustering and failover experiments |
 | Network equipment | PoE-capable switch | Lab connectivity |
+| Administrative laptop | Linux-capable laptop | Remote administration and testing |
 
 ## Verification checklist
 - [ ] Confirm which systems are currently operational
