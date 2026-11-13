@@ -1,0 +1,14 @@
+# Defense in depth only: review every file before committing.
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.log
+*.bak
+*.backup
+secrets/
+private/
+credentials/
