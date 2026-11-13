@@ -22,6 +22,7 @@ A documented personal homelab focused on virtualization, Linux administration, n
 | Project | Status | Documentation |
 | --- | --- | --- |
 | High-availability experiment | Planning | [Project 001](projects/001-high-availability/README.md) |
+| Windows service desk lab | In progress — VM created; OS not yet installed | [Project 002](projects/002-windows-service-desk/README.md) |
 
 ## Documentation principles
 
